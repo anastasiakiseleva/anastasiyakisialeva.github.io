@@ -12,7 +12,7 @@ Sep 2018 - Present
 - Collaborated with product owners on feature requirements.
 - Collected and prioritized user feedback on the documentation.
 - Contributed to internal knowledge base.
-- Managed UI localization and managed remote translators.
+- Managed UI localization with a team of independent remote translators.
 - Participated in UI/UX research.
 
 
