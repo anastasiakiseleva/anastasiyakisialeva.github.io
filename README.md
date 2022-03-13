@@ -7,7 +7,10 @@
 Sep 2018 - Present
 3 yrs 7 mos
 
-- Created and reviewed [documentation](https://www.anylogic.help) for the company's flagman product.
+- Created and reviewed [user documentation](https://www.anylogic.help) for the company's flagman product, including:
+    - [user guides with code samples](https://anylogic.help/library-reference-guides/material-handling-library/custom-routing.html)
+    - [in-depth tutorials](https://anylogic.help/tutorials/material-handling/index.html)
+    - [how-to videos](https://www.youtube.com/playlist?list=PLUJJN9tmVTj1czFMt9IKi6wge9GnmMTN3)
 - Maintained documentation platform in close collaboration with front-end developers.
 - Collaborated with product owners on feature requirements.
 - Collected and prioritized user feedback on the documentation.
@@ -17,7 +20,7 @@ Sep 2018 - Present
 
 
 #### Tools and technologies
-- Git, Jira, Confluence, Atom
+- Git, Jira, Confluence, Atom, Snagit
 - HTML, CSS, Markdown, rST, JavaScript, Java, Python
 
 #### My achievements
