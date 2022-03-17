@@ -64,7 +64,8 @@ May 2009 - Aug 2012
 
 # Education
 
-## Moscow State Linguistic Univercity
+#### Moscow State Linguistic University
 - Master's degree in Linguistics
-## Zhejiang University of Technology, Confucius Institute
+
+#### Zhejiang University of Technology, Confucius Institute
 - Chinese language (HSK5, B2)
