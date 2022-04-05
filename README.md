@@ -51,7 +51,7 @@ Aug 2012 - Aug 2017
 - HTML, CSS
 
 #### My achievements
-- Conceptualized and maintained internal translation tool used by distributed contributors. This tool became a single source of localization for custom UIs, error messages, and quick guides by distributed contributors. Each entry went through review process and after approval was added to the internal database for further reuse.
+- Conceptualized and maintained internal translation tool. This tool became a single source of localization for custom UIs, error messages, and quick guides by distributed contributors. Each entry went through review process and after approval was added to the internal database for further reuse.
 - Created and maintained internal dictionaries (EN/RU/DE/ZH).
 - Created internal style guide for developers wiki to facilitate creating user guides and how-to scenarios based on engineers' on-site experiences.
 - Established documentation workflow for multiple custom-built solutions tailored to each client's need.
