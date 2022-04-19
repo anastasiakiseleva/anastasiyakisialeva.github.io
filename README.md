@@ -70,4 +70,4 @@ May 2009 - Aug 2012
 - Master's degree in Linguistics
 
 #### Zhejiang University of Technology, Confucius Institute
-- Chinese language (HSK5, B2)
+- Chinese language (HSK5)
