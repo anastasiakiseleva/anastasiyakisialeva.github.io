@@ -2,11 +2,28 @@
 
 ## Experience
 
+### [Moeco IoT, Inc](https://moeco.io/)
+
+#### Senior Technical Writer
+
+Apr 2022 - Current time
+4  mos
+
+- Created and maintained user manuals for sensor devices (HTML, PDF).
+- Created process flow diagrams for internal development processes.
+- Documented mass production process from project initiation to final delivery, including all technical requirements, RACI matrix, test cases, etc.
+- Maintained team's Confluence spaces.
+- Created bid pitches for company's projects.
+
+#### Tools and technologies
+- Git, Jira, Confluence, Sublime Text
+- rST, Sphinx, LaTeX
+
 ### [The AnyLogic Company](https://www.anylogic.com/)
 
 #### Senior Technical Writer
 
-Sep 2018 - Present
+Sep 2018 - Apr 2022
 3 yrs 7 mos
 
 - Created and reviewed [user documentation](https://www.anylogic.help) for the company's flagman product, including:
