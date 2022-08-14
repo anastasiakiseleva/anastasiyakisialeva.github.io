@@ -6,7 +6,7 @@
 
 #### Senior Technical Writer
 
-Apr 2022 - Current time
+Apr 2022 - Current time  
 4  mos
 
 - Created and maintained user manuals for sensor devices (HTML, PDF).
@@ -23,7 +23,7 @@ Apr 2022 - Current time
 
 #### Senior Technical Writer
 
-Sep 2018 - Apr 2022
+Sep 2018 - Apr 2022  
 3 yrs 7 mos
 
 - Created and reviewed [user documentation](https://www.anylogic.help) for the company's flagman product, including:
@@ -53,8 +53,7 @@ Sep 2018 - Apr 2022
 
 #### Senior Technical Writer
 
-Aug 2012 - Aug 2017
-
+Aug 2012 - Aug 2017  
 5 yrs 1 mo
 
 - Developed from scratch technical documentation for users and developers for automation solutions implemented at AT&S, LG Electronics, Samsung, Siemens, IBM, Mitsubishi, and other international companies.
@@ -75,8 +74,7 @@ Aug 2012 - Aug 2017
 
 #### Technical Writer
 
-May 2009 - Aug 2012
-
+May 2009 - Aug 2012  
 3 yrs 4 mos
 
 - Created, edited, and translated user and developer documentation.
