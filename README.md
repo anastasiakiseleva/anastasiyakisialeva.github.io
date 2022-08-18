@@ -2,7 +2,7 @@
 
 ## About myself
 
-I've been working the field of technical communication since 2009 writing about various software solutions for end-users and developers alike. I'm passionate about making documentation accessible, informative, and easy to read. My main focus is on streamlining and improving user scenarios, developing tutorials and how-to guides, writing code samples and API guides. I believe in the team effort and synergy between developers and technical writers that is necessary to create an invaluable source of applicable practical knowledge for beginners and experienced users alike.  
+I've been working the field of technical communication since 2009 writing about various software solutions for end-users and developers. I'm passionate about making documentation accessible, informative, and easy to read. My main focus is on streamlining and improving user scenarios, developing tutorials and how-to guides, writing code samples and API guides. I believe in the team effort and synergy between developers and technical writers that is necessary to create an invaluable source of applicable practical knowledge for beginners and experienced users alike.  
 In my free time I read a lot and study frontend development at JetBrains Academy. You can find my beginner projects on my GitHub page: [case converter](https://github.com/anastasiakiseleva/case-converter) and [flashcards](https://github.com/anastasiakiseleva/Flashcards).
 
 ## Experience
