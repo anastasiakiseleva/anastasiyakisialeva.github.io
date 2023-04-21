@@ -6,28 +6,30 @@ I've been working the field of technical communication since 2009 writing about 
 
 I'm passionate about making documentation accessible, informative, and easy to read. My main focus is on streamlining and improving user scenarios, developing tutorials and how-to guides, writing code samples and API guides.  
 
-I believe in the team effort and synergy between developers and technical writers that is necessary to create an invaluable source of applicable practical knowledge for beginners and experienced users alike.  
+I believe in the team effort and synergy between developers and technical writers that is necessary to give users practical knowledge they can immediately apply.  
 
 In my free time I read a lot and study frontend development at JetBrains Academy. You can find my beginner projects on my GitHub page: [case converter](https://github.com/anastasiakiseleva/case-converter) and [flashcards](https://github.com/anastasiakiseleva/Flashcards).
 
 ## Experience
 
-### [Moeco IoT, Inc](https://moeco.io/)
-
-#### Senior Technical Writer
-
-Apr 2022 - Current time  
-4  mos
+### Kofax Montenegro
 
 #### Tools and technologies
-- Git, Jira, Confluence, Sublime Text
-- rST, Sphinx, LaTeX
+- TFS, XMetal
+- DITA
 
 #### Area of responsibility
-- Creating user manuals for hardware devices.
-- Documenting internal development process flow.
-- Documenting mass production process from project initiation to final delivery, including all technical requirements, RACI matrix, test cases, etc.
-- Maintaining developer's Confluence.
+- Developing and maintaining user manuals, release notes, documentation for fix packs, and troubleshooting guides for two projects.
+- Communicating with localization team in preparation of documentation for release  in multiple languages.
+- Improving and streamlining existing documentation to make it more accessible to users.
+
+#### My achievements
+
+- Organized multiple user and developer PDF guides for Kofax Communications Manager into a cohesive online help system with cross-links and improved navigation.
+
+#### Technical Writer
+
+June 2022 - Current time
 
 ### [The AnyLogic Company](https://www.anylogic.com/)
 
@@ -86,6 +88,23 @@ May 2009 - Aug 2012
 3 yrs 4 mos
 
 - Created, edited, and translated user and developer documentation.
+
+## Consulting
+
+### [Moeco IoT, Inc](https://moeco.io/)
+
+Apr 2022 - Current time  
+12 mos
+
+#### Tools and technologies
+- Git, Jira, Confluence, Sublime Text
+- rST, Sphinx, LaTeX
+
+#### Area of responsibility
+- Creating user manuals for hardware devices.
+- Documenting internal development process flow.
+- Documenting mass production process from project initiation to final delivery, including all technical requirements, RACI matrix, test cases, etc.
+- Maintaining developer's Confluence.
 
 ## Education
 
