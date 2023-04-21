@@ -19,8 +19,9 @@ In my free time I read a lot and study frontend development at JetBrains Academy
 - DITA
 
 #### Area of responsibility
-- Developing and maintaining user manuals, release notes, documentation for fix packs, and troubleshooting guides for two projects.
+- Developing and maintaining user manuals, release notes, documentation for fix packs, and troubleshooting guides in close collaboration with product managers, developers, and technical support.
 - Communicating with localization team in preparation of documentation for release  in multiple languages.
+- Reviewing the UI texts and error messages for products under my responsibility.
 - Improving and streamlining existing documentation to make it more accessible to users.
 
 #### My achievements
