@@ -14,6 +14,9 @@ In my free time I read a lot and study frontend development at JetBrains Academy
 
 ### [Tungsten Automation](https://www.tungstenautomation.com/)
 
+#### Technical Writer
+June 2022 - Current time
+
 #### Tools and technologies
 - TFS, XMetal
 - DITA
@@ -27,10 +30,6 @@ In my free time I read a lot and study frontend development at JetBrains Academy
 #### My achievements
 
 - Restructured and organized multiple user and developer PDF guides for the product into a cohesive online help system with cross-links and improved navigation. See the example here: [Kofax Communications Manager 5.7.0](https://docshield.kofax.com/Portal/Products/en_US/KCM/5.7.0-1ggsd49p37/KCM.htm)
-
-#### Technical Writer
-
-June 2022 - Current time
 
 ### [The AnyLogic Company](https://www.anylogic.com/)
 
