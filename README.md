@@ -2,7 +2,7 @@
 
 ## About myself
 
-I've been working the field of technical communication since 2009 writing about various software solutions for end-users and developers.  
+I've been working the field of technical communication since 2009 writing about various software solutions for end-users and developers as a full time employee and [consultant](#consulting).  
 
 I'm passionate about making documentation accessible, informative, and easy to read. My main focus is on streamlining and improving user scenarios, developing tutorials and how-to guides, writing code samples and API guides.  
 
