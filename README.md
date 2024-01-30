@@ -12,7 +12,7 @@ In my free time I read a lot and study frontend development at JetBrains Academy
 
 ## Experience
 
-### Tungsten Automation
+### [Tungsten Automation](https://www.tungstenautomation.com/)
 
 #### Tools and technologies
 - TFS, XMetal
