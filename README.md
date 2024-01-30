@@ -12,7 +12,7 @@ In my free time I read a lot and study frontend development at JetBrains Academy
 
 ## Experience
 
-### Kofax Montenegro
+### Tungsten Automation
 
 #### Tools and technologies
 - TFS, XMetal
@@ -26,7 +26,7 @@ In my free time I read a lot and study frontend development at JetBrains Academy
 
 #### My achievements
 
-- Organized multiple user and developer PDF guides for Kofax Communications Manager into a cohesive online help system with cross-links and improved navigation.
+- Restructured and organized multiple user and developer PDF guides for the product into a cohesive online help system with cross-links and improved navigation. See the example here: [Kofax Communications Manager 5.7.0](https://docshield.kofax.com/Portal/Products/en_US/KCM/5.7.0-1ggsd49p37/KCM.htm)
 
 #### Technical Writer
 
@@ -92,10 +92,27 @@ May 2009 - Aug 2012
 
 ## Consulting
 
+### [DevSoft AM LLC](https://www.devexpress.com)
+
+October 2022 - Current time
+15 mos
+
+#### Tools and technologies
+- Git, GitHub, Visual Studio, Visual Studio Code
+- Markdown, C#
+
+#### Area of responsibility
+- Documenting platform-specific features of [XAF (ORM-based .NET Application Framework)](https://docs.devexpress.com/eXpressAppFramework/112670/expressapp-framework).
+- Documenting API, writing code samples, collecting use cases.
+- Handling user feedback on documentation.
+
+#### My achievements
+- Restructured and rewritten the product's [basic](https://docs.devexpress.com/eXpressAppFramework/401943/getting-started/basic-tutorial-blazor) and [in-depth](https://docs.devexpress.com/eXpressAppFramework/402125/getting-started/in-depth-tutorial-blazor) getting started tutorials for .NET 6+, ASP.NET Core Blazor, and Entity Framework Core configuration.
+
 ### [Moeco IoT, Inc](https://moeco.io/)
 
 Apr 2022 - Current time  
-12 mos
+21 mos
 
 #### Tools and technologies
 - Git, Jira, Confluence, Sublime Text
